@@ -1,0 +1,3 @@
+[submodule "UnityMultiCam"]
+	path = Assets/UnityMultiCam
+	url = https://github.com/n1ckfg/UnityMultiCam
